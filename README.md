@@ -1,5 +1,6 @@
-# routing-pract
+# Quiz
 
+## This project uses router for reference
 ## Project setup
 ```
 npm install
